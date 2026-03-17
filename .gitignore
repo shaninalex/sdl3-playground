@@ -1,0 +1,9 @@
+build
+
+# should include SLD3 folder with headers
+includes/*
+!includes/.gitkeep
+
+# should include libSDL3.so from SDL3 build from source
+vendor/*
+!vendor/.gitkeep
