@@ -1,4 +1,5 @@
 build
+cmake-build-debug
 
 # should include SLD3 folder with headers
 includes/*
